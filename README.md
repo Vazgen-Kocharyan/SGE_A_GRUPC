@@ -14,13 +14,17 @@ Un cop instal·lat el mòdul ens dirigim a l'apartat vendes.
 
 #
 
-Com podem veure hi ha diversos apartats en aquest mòdul
+Com podem veure hi ha diversos apartats en aquest mòdul ens dirigirem a l'apartat de "Productos".
 
 <img src="img/opciones.png" width="700">
 
 #
 
 Per començar, afegirem productes per vendre'ls.
+
+<img src="img/nuevo_producto.png" width="700">
+
+#
 
 Primer, hem de posar-li un nom al producte, per exemple, "hamburguesa de formatge".
 
