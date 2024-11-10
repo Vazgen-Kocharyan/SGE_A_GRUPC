@@ -1,5 +1,27 @@
 # SGE_A_GRUPC
 
+## Introducció dels integrants
+
+- **Vazgen:** Soc Vazgen i estic interessat en el sistema ERP Odoo per les funcions de personalització que té amb el llenguatge Python.
+
+- **Estefania:** Em dic Estefania, estic aprenent sobre els sistemes de gestió empresarial i estic interessada en com els sistemes ERP com Odoo poden transformar la productivitat i eficiència de les empreses.
+
+- **Abigail:** Soc Abigail, m'interessa aprendre a utilitzar eines de gestió empresarial per optimitzar el treball a les empreses, estalviant temps i donant millors resultats.
+
+## Repartició de tasques
+
+- **Vazgen:** S’encarrega dels mòduls de Vendes i Calendari
+
+- **Estefania:** S’encarrega dels mòduls d’Empleats i Events
+
+- **Abigail** S’encarrega dels mòduls de Compres i Costos
+
+## Presentació
+
+Som una consultora especialitzada en oferir solucions tecnològiques a petites i mitjanes empreses, ajudant  així a optimitzat els seus processos mitjançant l’ús del software de gestió empresarial **Odoo**. El nostre objectiu és implementar eines adaptades a les necessitats específiques de cada negoci, millorant així la seva eficiència, productivitat i capacitat de creixement.
+
+# Explicació de cada mòdul
+
 ## Mòdul d'Empleats
 
 En aquest mòdul podem gestionar de forma eficient tota la informació de l'equip. Quan entrem, es poden observar diferents apartats com: **Empleats**, **Departaments**, **Informes** i la **Configuració dels Empleats**.
