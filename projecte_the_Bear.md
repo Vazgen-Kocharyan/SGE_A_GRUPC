@@ -426,3 +426,77 @@ Este tutorial es una guía a través del proceso de instalación y configuració
 7. Guardar
 
 ![Imagen de ejemplo: Paso 6](Img_costos/Paso_6.png)
+
+# Mòdul de Punt de Venda (PoS)
+Aquest mòdul és ideal per a negocis que venen directament al client, com botigues, restaurants o cafeteries.
+
+## 1. Configuració inicial
+
+Instal·lar el mòdul:
+
+1. Ves a Aplicacions.
+2. Cerca "Punt de Venda" i fes clic a Instal·lar.
+
+Crear un punt de venda:
+
+1. Accedeix al mòdul de Punt de Venda.
+2. Al menú superior, selecciona Configuració > Punts de Venda.
+3. Fes clic a Crear i defineix:
+  3.1 Nom del punt de venda.
+  3.2 Mètodes de pagament (efectiu, targeta, etc.).
+  3.3 Maquinari connectat (com impressores o escàners).
+
+Configurar productes:
+
+1.  Ves a Inventari > Productes.
+2. Activa l'opció Disponible en el Punt de Venda per als productes que vulguis vendre.
+
+## 2. Ús del Punt de Venda
+
+Obre una sessió:
+
+1. Selecciona el punt de venda i fes clic a Nova sessió.
+
+Realitza una venda:
+
+1. Escaneja o selecciona els productes al sistema.
+2. Aplica descomptes o ajusta quantitats si cal.
+3. Tria el mètode de pagament i completa la venda.
+
+Tanca la sessió:
+
+1. Al final del dia, tanca la sessió per obtenir un resum de les vendes.
+
+# Mòdul de Planificació
+Aquest mòdul t’ajuda a gestionar horaris, assignar tasques i organitzar el temps del teu equip.
+
+## 1. Configuració inicial
+
+Instal·lar el mòdul:
+
+1. Ves a Aplicacions.
+2. Cerca "Planificació" i fes clic a Instal·lar.
+
+Configurar empleats i horaris:
+
+1. Ves a Planificació > Empleats per afegir els membres del teu equip.
+2. Defineix els seus horaris laborals i rols.
+
+Crear plantilles de tasques (opcional):
+
+1. Ves a Planificació > Plantilles i crea plantilles per a activitats recurrents.
+2. Crear un calendari
+
+Assignar tasques:
+
+1. Ves a Planificació > Calendari.
+2. Selecciona el període i fes clic a Afegir per crear un nou torn.
+3. Assigna un empleat, defineix l’horari i la tasca específica.
+
+Publicar els horaris:
+
+1. Un cop complet, fes clic a Publicar per notificar als empleats.
+
+Revisar la disponibilitat:
+
+1. Utilitza la vista de calendari per evitar conflictes o superposicions.
